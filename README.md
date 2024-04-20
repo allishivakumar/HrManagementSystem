@@ -1,8 +1,8 @@
 #React HR Management System with Django Backend
-Overview
+##Overview
 This project is a comprehensive Human Resource Management System (HRMS) built using React for the frontend and Django for the backend. It aims to provide a seamless solution for managing various HR activities such as employee management, attendance tracking, and payroll management.
 
-Features
+##Features
 Employee Management: Add, edit, and manage employee records.
 Attendance Tracking: Monitor and track employee attendance.
 Payroll Management: Manage employee salaries, deductions, and bonuses.
